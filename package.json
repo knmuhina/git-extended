@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "license": "CC-BY-4.0",
-  "packageManager": "pnpm@10.27.0"
+  "packageManager": "pnpm@10.27.0",
   "config": {
     "commitizen": {
       "path": "cz-conventional-changelog"
